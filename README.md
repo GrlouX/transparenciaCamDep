@@ -10,7 +10,7 @@ Tais tarefas encontram-se descritas no arquivo "TranspCD2022.ipynb", o qual tamb
 
 ## Análise e visualização dos dados
 
-Os dados preparados no formato JSON foram importados para o Google Data Studio por intermédio de um conector. Os relatórios construídos para visualizar os resultados podem ser acessados de maneira interativa no link <a href="https://lookerstudio.google.com/reporting/3e51a065-a2ca-457b-838a-6a636c654641">Visual de Transparência da Câmara dos Deputados em 2022</a>.
+Os dados preparados no formato JSON foram importados para o Google Data Studio por intermédio de um conector JDBC. Os relatórios construídos para visualizar os resultados podem ser acessados de maneira interativa no link <a href="https://lookerstudio.google.com/reporting/3e51a065-a2ca-457b-838a-6a636c654641">Visual de Transparência da Câmara dos Deputados em 2022</a>.
 
 Segue abaixo um resumo das informações apresentadas na análise: 
 
