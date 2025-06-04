@@ -14,5 +14,5 @@ Os dados preparados no formato JSON foram importados para o Looker Studio por in
 
 Segue uma amostra visual dos resultados da análise: 
 
-![Transparencia_na Câmara dos Deputados](https://github-production-user-asset-6210df.s3.amazonaws.com/90117229/258276286-9827343e-d81d-4ac6-a209-c19245263f0f.png)
+![Transparencia_na Câmara dos Deputados](https://github.com/user-attachments/assets/db945494-52c9-43d8-8c67-534c71dca916)
 
